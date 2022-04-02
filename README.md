@@ -11,7 +11,7 @@
 ## 🎖️My achievements:🎖️ -->
 
 
-![Slide3](https://user-images.githubusercontent.com/99224273/160948664-8ab2866a-e321-42f1-a15d-4e0e5e183c22.JPG)
+<!-- ![Slide3](https://user-images.githubusercontent.com/99224273/160948664-8ab2866a-e321-42f1-a15d-4e0e5e183c22.JPG) -->
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=molinamatheus&hide_border=true&theme=redical)
