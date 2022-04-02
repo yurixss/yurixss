@@ -1,10 +1,14 @@
+<<<<<<< HEAD
+=======
+## Hi there 👋, I am Yuri Nunes, welcome to My Profile!
+
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=yurixss&hide_border=true&theme=redical)
 
  . | .
 --- | --- 
-![Yurixss's github stats](https://github-readme-stats.vercel.app/api?username=yurixss&show_icons=true&theme=radical&include_all_commits=true) | ![Yurixss's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yurixss&theme=radical&layout=compact)
+<!-- ![Yurixss's github stats](https://github-readme-stats.vercel.app/api?username=yurixss&show_icons=true&theme=radical&include_all_commits=true) | ![Yurixss's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yurixss&theme=radical&layout=compact) -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurixss"></img>
 
@@ -18,9 +22,9 @@
 
 
 
----
+<!-- ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
----
+--- -->
 
 
 
