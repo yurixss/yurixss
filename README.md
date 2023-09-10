@@ -1,5 +1,5 @@
 
-<!-- ## Hi there 👋, I am Yuri Nunes, welcome to My Profile! -->
+Hi there 👋, I am Yuri Nunes, welcome to My Profile!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yurixss&theme=bear&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFFFFF&background=0D1117&currStreakNum=FFFFFF)](https://github.com/yurixss/yurixss)
 
