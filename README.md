@@ -1,4 +1,6 @@
--   Coding at TrucksControl;
+-   Coding since 2021;
+-   Working at Truckscontrol
+-   23 years old
 -   Email: yurinuness777@gmail.com;
 
 <p align="center" dir="auto">
